@@ -1,0 +1,14 @@
+.task1 {
+	background-color: #04fd3a;
+	cursor: pointer;
+	border: none;
+	width: 100px;
+	height: 50px;
+}
+
+.bi-arrow-down-left-circle {
+	display: inline-block;
+}
+.bi-arrow-down-left-circle-fill {
+	display: none;
+}
